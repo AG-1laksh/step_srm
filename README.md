@@ -1,3 +1,3 @@
-# Step SRM Project
+# Step SRM 
 
-Welcome to the Step SRM project. This repository is linked with GitHub.
+Welcome to the Step SRM. This repository is linked with GitHub.
